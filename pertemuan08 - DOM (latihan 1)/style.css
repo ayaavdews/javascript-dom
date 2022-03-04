@@ -1,0 +1,29 @@
+html, body {
+  height: 100%;
+}
+
+body {
+  text-align: center;
+}
+
+.biru-muda {
+  background-color: lightblue;
+}
+
+.square {
+  width: 25px;
+  height: 25px;
+  margin: 10px auto;
+}
+
+.red {
+  background-color: red;
+}
+
+.green {
+  background-color: green;
+}
+
+.blue {
+  background-color: blue;
+}
